@@ -1,1 +1,1 @@
-In this repo, you can find all the examples included on the Francois Chollet's book 'Deep Learning with Python' seperated in 2 parts/notebooks. They are presented with many details and recommendations. 
+In this repo, you can find all the examples included in the Francois Chollet's book 'Deep Learning with Python' seperated in 2 parts/notebooks. They are presented with many details and recommendations. 
