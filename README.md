@@ -14,7 +14,7 @@ They include examples, experiments, and my personal comments while working throu
 - **Part 3:** Computer vision and sequence models  
 - **Part 4:** Advanced deep learning topics
 
-The original **dl_with_python_book_1st_edition.pdf** is also included in this repo for reference.
+The original **dl_with_python_1st_edition_book.pdf** is also included in this repo for reference.
 
 ---
 
